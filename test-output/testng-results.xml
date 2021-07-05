@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28763" started-at="2021-05-26T20:41:57 IST" finished-at="2021-05-26T20:42:26 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28763" started-at="2021-05-26T20:41:57 IST" finished-at="2021-05-26T20:42:26 IST">
+      <class name="SmartTown.SmartTown_By_KCS.DownloadCSVTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:SmartTown.SmartTown_By_KCS.DownloadCSVTest@394e1a0f]" name="initialize" is-config="true" duration-ms="5274" started-at="2021-05-26T20:41:57 IST" finished-at="2021-05-26T20:42:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="DownloadCSV()[pri:0, instance:SmartTown.SmartTown_By_KCS.DownloadCSVTest@394e1a0f]" name="DownloadCSV" duration-ms="23315" started-at="2021-05-26T20:42:02 IST" finished-at="2021-05-26T20:42:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadCSV -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:SmartTown.SmartTown_By_KCS.DownloadCSVTest@394e1a0f]" name="teardown" is-config="true" duration-ms="140" started-at="2021-05-26T20:42:25 IST" finished-at="2021-05-26T20:42:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- SmartTown.SmartTown_By_KCS.DownloadCSVTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
